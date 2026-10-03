@@ -1,3 +1,6 @@
 # Deep FinResearch Bench: Evaluating AI’s Ability to Conduct Professional Financial Investment Research
+# CreditXAI: A Multi-Agent System for Explainable Corporate Credit Rating
+# FaVOR: LLM-Based Agentic Framework for Factor Mining via Empirical Validation
+
 
 
